@@ -1,1 +1,1 @@
-"# leetcode-practice" 
+This repository will host leetcode questions I have attempted, solved and optimized using AI. I will also provide lessons learnt from each exercise. This will also serve as a medium to document my attempts to improve my python coding skills and hopefully help encourage others to improve theirs skills using AI as a teaching assistant..
